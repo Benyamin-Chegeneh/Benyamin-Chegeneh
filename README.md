@@ -18,6 +18,6 @@ I'm C# Developer
 ------------------------------------------------------------------------------------------------------------
 ![ajfsj](https://github.com/Benyamin-Chegeneh/Benyamin-Chegeneh/assets/149707803/a5ea83d5-2db1-4a0f-9b7f-270ffe1db7af)
 
-My Favourite Game is FortNite
+My Favourite Game is Fortnite
 
 ------------------------------------------------------------------------------------------------------------
