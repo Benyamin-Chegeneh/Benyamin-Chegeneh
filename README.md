@@ -23,14 +23,15 @@ src="https://img.shields.io/github/followers/Benyamin-Chegeneh?logo=github&style
 😎 I know
 
 <p align="center">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="!https://github.com/Benyamin-Chegeneh/Benyamin-Chegeneh/assets/149707803/b5defe59-3bbd-49ff-9f9c-c89e8d71823b" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/73090f6e56b140fd9253dbaf7ee65dd8a9907354/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/73090f6e56b140fd9253dbaf7ee65dd8a9907354/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
 -------------------
 <p align="center">
 📡 Me at Social Media
 <p align="center">
-<a href="http://www.instagram.com/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/73090f6e56b140fd9253dbaf7ee65dd8a9907354/instagram.svg" width="32" height="32" /></a>
+<a href="http://t.me/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="" width="32" height="32" /></a>
 
 -------------------
 <p align="center">
