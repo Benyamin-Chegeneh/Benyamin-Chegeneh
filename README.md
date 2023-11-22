@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/Benyamin-Chegeneh?logo=github&style
 📡 Me at Social Media
 <p align="center">
 <a href="http://www.instagram.com/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/73090f6e56b140fd9253dbaf7ee65dd8a9907354/instagram.svg" width="32" height="32" /></a>
-<a href="http://t.me/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="" width="32" height="32" /></a>
+<a href="http://t.me/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/0259c6847c306a4b05e709ef5f09fa10d80400c2/telegram.svg" width="36" height="36" /></a>
 
 -------------------
 <p align="center">
