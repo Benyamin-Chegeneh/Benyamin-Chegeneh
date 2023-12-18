@@ -12,11 +12,11 @@
 👨‍🎓 I'm Student</h5>
 
 <h2></h2>
-<h2><p align="center">Donate Me 😜</h2>
-<h5><p align="center">Follow Me Please</h5>
+<h3>
+<p align="center">Follow Me Please 😜
 <p align="center">
 <a href="https://www.github.com/Benyamin-Chegeneh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Benyamin-Chegeneh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Benyamin-Chegeneh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></h3>
 
 <h2><p align="center">Languages and Tools 💻</h2>
 
