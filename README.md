@@ -9,7 +9,7 @@
 <p align="center">
 💻 I'm Windows App & Web Developer
 <p align="center">
-👨‍🎓 I'm 9th Grade Student</h5>
+👨‍🎓 I'm in 9th Grade of School</h5>
 
 <h2></h2>
 <h3>
