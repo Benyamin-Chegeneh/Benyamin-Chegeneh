@@ -31,9 +31,14 @@ src="https://img.shields.io/github/followers/microsoft?logo=github&style=for-the
 <h2></h2>
 
 <h3><p align="center">
-Me at Social Media 📡
+My Social Media 📡
 <p align="center">
 <a href="http://t.me/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/0259c6847c306a4b05e709ef5f09fa10d80400c2/telegram.svg" width="36" height="36" /></a></h3><h2></h2>
+
+<h3><p align="center">
+My Spotify Playlist🟢🎧
+<p align="center">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4to0HO4fC9YhY66IRBGOFf?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <h3><p align="center">
 My Trophies 🏆
