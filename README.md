@@ -44,6 +44,7 @@
 <a href="http://t.me/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/telegram.svg" width="46" height="46" /></a>
 <a href="https://instagram.com/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/ef8ecfdb2f8bb86a31e1897d991af99eb9ffa40e/instagram.svg" width="46" height="46" /></a>
 <a href="https://x.com/Beny_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/1aca4257ea8d3d0b22ae7f8e84eda1a3f524e528/x.svg" width="46" height="46" /></a>
+<a href="https://linkedin.com/in/Benyamin-Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/1aca4257ea8d3d0b22ae7f8e84eda1a3f524e528/linkedin.svg" width="46" height="46" /></a>
 <a href="https://open.spotify.com/playlist/4to0HO4fC9YhY66IRBGOFf?si=714ceb1159e44247" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/spotify.svg" width="46" height="46" /></a></h3><h2></h2>
 
 <h3><p align="center">
