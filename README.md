@@ -46,9 +46,11 @@
 <a href="https://open.spotify.com/playlist/4to0HO4fC9YhY66IRBGOFf?si=714ceb1159e44247" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/spotify.svg" width="46" height="46" /></a></h3><h2></h2>
 
 <h3><p align="center">
-My Trophies 🏆
+My Achievements and Achievements 🏆
 
-<div>
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Benyamin-Chegeneh&theme=nord&column=7" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benyamin-chegeneh" alt="benyamin-chegeneh" /></a> </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=benyamin-chegeneh&show_icons=true&locale=en&layout=compact" alt="benyamin-chegeneh" /></p>
+
+
 </div></h3>
