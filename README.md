@@ -42,7 +42,7 @@
 📡• My Social Media •📡
 </3><h3><p align="center">
 <a href="http://t.me/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/telegram.svg" width="46" height="46" /></a>
-<a href="https://open.spotify.com/embed/playlist/4to0HO4fC9YhY66IRBGOFf?utm_source=generator&theme=0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/spotify.svg" width="46" height="46" /></a></h3><h2></h2>
+<a href="https://open.spotify.com/playlist/4to0HO4fC9YhY66IRBGOFf?si=714ceb1159e44247" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/spotify.svg" width="46" height="46" /></a></h3><h2></h2>
 
 <h3><p align="center">
 My Trophies 🏆
