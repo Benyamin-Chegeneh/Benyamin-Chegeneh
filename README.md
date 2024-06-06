@@ -1,29 +1,28 @@
 <h1><p align="center">in the name of GOD</h1>
-<h3><p align="center">Hi , there 👋</h3>
+<h3><p align="center">👋• Hi , there •👋</h3>
 <h5><p align="center">
-👦I'm Benyamin Chegeneh , I'm 15
+🙎‍♂️• My Name is Benyamin Chegeneh •🙎‍♂️
 <p align="center">
-🚩 I'm from IRAN
+🙎‍♂️• a 15 Years old Student •🙎‍♂️
 <p align="center">
-🔧 I'm Computer and Mobile Software Repairer
+❤️• from IRAN •💚
 <p align="center">
-💻 I'm Windows App & Web Developer
+💻• Interested in different areas of computer •💻
 <p align="center">
-👨‍🎓 I'm in 9th Grade of School</h5>
+👨‍💻• I'm Windows App & Web Developer •👨‍💻
+<p align="center">
+✖• Manager of X-Studio •✖</h5>
+
 
 <h2></h2>
-<h3>
-<p align="center">Follow Me Please 😜
-<p align="center">
-<a href="https://www.github.com/Benyamin-Chegeneh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/microsoft?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></h3>
-<h2></h2>
 
-<h3><p align="center">Languages and Tools 💻
+
+<h3><p align="center">💪• My Skills •💪
 
 <p align="center">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/73090f6e56b140fd9253dbaf7ee65dd8a9907354/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/73090f6e56b140fd9253dbaf7ee65dd8a9907354/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/7a869b9309f5145a80f7b8c87b4cd64a9759876d/c%23.svg" width="45" height="45" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/7a869b9309f5145a80f7b8c87b4cd64a9759876d/html.svg" width="46" height="46" alt="HTML5" /></a>
+
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/0b1618a74c624ac94660fc3854efbc16aa8bf298/vs.svg" width="36" height="36" alt="Visual Studio" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/0b1618a74c624ac94660fc3854efbc16aa8bf298/vsc.svg" width="36" height="36" alt="Visual Studio Code" /></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/8cd2b195a24a3ce45adac4909b3c3fb4365193c4/arduino.svg" width="36" height="36" alt="Arduino" /></a>
