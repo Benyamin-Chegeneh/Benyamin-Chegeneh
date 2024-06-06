@@ -23,21 +23,26 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/7a869b9309f5145a80f7b8c87b4cd64a9759876d/c%23.svg" width="46" height="46" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/7a869b9309f5145a80f7b8c87b4cd64a9759876d/html.svg" width="46" height="46" alt="HTML5" /></a>
 <a href="https://scratch.mit.edu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/d888abf75a7c3432fc331b151e06698cfc538917/scratch.svg" width="46" height="46" alt="Scratch" /></a>
+  
+<h2></h2>
 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/0b1618a74c624ac94660fc3854efbc16aa8bf298/vsc.svg" width="36" height="36" alt="Visual Studio Code" /></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/8cd2b195a24a3ce45adac4909b3c3fb4365193c4/arduino.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/8cd2b195a24a3ce45adac4909b3c3fb4365193c4/linux.svg" width="36" height="36" alt="Linux" /></a></h3>
+<h3><p align="center">⚙• My Utility •⚙
+
+<p align="center">
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/vs.svg" width="46" height="46" alt="Visual Studio" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/notepad++.svg" width="46" height="46" alt="NotePad++" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/blender.svg" width="46" height="46" alt="Blender 3D" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/vscode.svg" width="46" height="46" alt="Visual Studio Code" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/audacity.svg" width="46" height="46" alt="Audacity" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/bandlab.svg" width="46" height="46" alt="Bandlanb" /></a>
+  
 <h2></h2>
 
 <h3><p align="center">
-My Social Media 📡
+📡• My Social Media •📡
 <p align="center">
-<a href="http://t.me/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/0259c6847c306a4b05e709ef5f09fa10d80400c2/telegram.svg" width="36" height="36" /></a></h3><h2></h2>
-
-<h3><p align="center">
-My Spotify Playlist🟢🎧
-<p align="center">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4to0HO4fC9YhY66IRBGOFf?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="http://t.me/Benyamin_Chegeneh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/telegram.svg" width="46" height="46" /></a><p align="center">
+<a href="https://open.spotify.com/embed/playlist/4to0HO4fC9YhY66IRBGOFf?utm_source=generator&theme=0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Benyamin-Chegeneh/Benyamin-Chegeneh/3b8e2ba64ef660cf564c9fd420076033cbf7c06a/spotify.svg" width="46" height="46" /></a></h3><h2></h2>
 
 <h3><p align="center">
 My Trophies 🏆
