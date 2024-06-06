@@ -48,7 +48,7 @@
 <h3><p align="center">
 My Achievements and Achievements 🏆
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Benyamin-Chegeneh&column=4&margin-w=15&margin-h=15" alt="benyamin-chegeneh" /></a> </p>
+<p align="center"> <a href="https://github.com/Benyamin-Chegeneh"><img src="https://github-profile-trophy.vercel.app/?username=Benyamin-Chegeneh&column=4&margin-w=15&margin-h=15" alt="benyamin-chegeneh" /></a> </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=benyamin-chegeneh&show_icons=true&locale=en&layout=compact" alt="benyamin-chegeneh" /></p>
 
